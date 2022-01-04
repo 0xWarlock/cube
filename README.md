@@ -1,2 +1,1 @@
-# pinata
-Mutant Cats Hackathon
+# cube
