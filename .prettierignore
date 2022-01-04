@@ -1,0 +1,12 @@
+cache
+artifacts
+public
+dist
+.next
+.github
+
+.yarn
+node_modules
+
+.pnp*
+.vscode
