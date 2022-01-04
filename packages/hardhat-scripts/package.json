@@ -1,0 +1,9 @@
+{
+  "name": "hardhat-scripts",
+  "packageManager": "yarn@3.0.0",
+  "peerDependencies": {
+    "@nomiclabs/hardhat-waffle": "2.0.1",
+    "@openzeppelin/hardhat-upgrades": "1.11.0",
+    "hardhat": "2.6.7"
+  }
+}

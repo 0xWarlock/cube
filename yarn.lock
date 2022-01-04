@@ -758,6 +758,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"hardhat-scripts@workspace:packages/hardhat-scripts":
+  version: 0.0.0-use.local
+  resolution: "hardhat-scripts@workspace:packages/hardhat-scripts"
+  peerDependencies:
+    "@nomiclabs/hardhat-waffle": 2.0.1
+    "@openzeppelin/hardhat-upgrades": 1.11.0
+    hardhat: 2.6.7
+  languageName: unknown
+  linkType: soft
+
 "has-bigints@npm:^1.0.1":
   version: 1.0.1
   resolution: "has-bigints@npm:1.0.1"
